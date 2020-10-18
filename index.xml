@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazen Mel</title>
+    <link>https://mazenmel.github.io/</link>
+    <description>Recent content on Mazen Mel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://mazenmel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mazenmel.github.io/about/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazenmel.github.io/about/</guid>
+      <description>My name is Mazen Mel I have an engineering degree in telecommunications from The Higher School of Communications of Tunis (Tunisia) and I am currently working towards my master&amp;rsquo;s degree in ICT for Internet and Multimedia at The University of Padova (Italy).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mazenmel.github.io/contact/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazenmel.github.io/contact/</guid>
+      <description>Feel free to send me any requests or comments here.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mazenmel.github.io/projects/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazenmel.github.io/projects/</guid>
+      <description>Academic Projects  Network Science Analysis of the trust network of Bitcoin-Alpha exchange platform.</description>
+    </item>
+    
+  </channel>
+</rss>
