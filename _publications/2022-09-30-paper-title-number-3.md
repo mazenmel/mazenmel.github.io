@@ -1,9 +1,9 @@
 ---
 title: "Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-09-30-paper-title-number-3
 excerpt: 'This paper is about hyper-spectral image reconstruction and spatial super-resolution from CTIS measurements.'
-date: 2015-10-01
+date: 2022-09-30
 venue: 'The 33rd British Machine Vision Conference (BMVC)'
 paperurl: 'https://bmvc2022.mpi-inf.mpg.de/1063.pdf'
 citation: 'Mel, Mazen, Alexander Gatto, and Pietro Zanuttigh. "Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images." BMVC. 2022.'
