@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Mazen Mel"
   pronouns         : # example: "she/her"  
-  bio              : "I am a third year Ph.D. student. My research interests include computational imaging, optics, and computer vision"
-  location         : "Stuttgart, Germany"
+  bio              : "I am a third year Ph.D. student @ Uni Padova (IT)"
+  location         : "Stuttgart, Germany (DE)"
   employer         : "University of Padova"
   uri              : # URL
   email            : "mazen.mel@phd.unipd.it" 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "melmazen"
+  github           : "mazenmel"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
