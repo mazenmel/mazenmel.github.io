@@ -11,11 +11,11 @@ I am currently a third-year Ph.D. student in the Department of Information Engin
 
 News
 ======
-- [20/11/2023] :green_book: Our paper "End-to-end learning for joint depth and image reconstruction from diffracted rotation" has been published in The Visual Computer (Springer Nature). 
-- [09/07/2023] :fire: Attended the International Computer Vision Summer School (ICVSS 2023) in Sicily, Italy.
-- [17/10/2022] :blue_book: Our paper "Material characterization using a compact Computed Tomography Imaging Spectrometer with super-resolution capability" has been accepted at OCM 2023.
-- [30/09/2022] :blue_book: Our paper "Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images" has been accepted at BMVC 2022.
-- [28/05/2022] :green_book: Our paper "Deep learning-based hyperspectral image reconstruction from emulated and real computed tomography imaging spectrometer data" has been published in Optical Engineering (SPIE).
-- [01/10/2021] :books: Started Ph.D. studies in computer vision under the supervision of Dr. Pietro Zanuttigh.
-- [11/07/2021] :mortar_board: Defended my M.Sc. Thesis @ UNIPD (110/110 cum Laude).
-- [18/12/2019] :green_book: Our paper "Incremental and Multi-Task Learning Strategies for Coarse-To-Fine Semantic Segmentation" has been published in Technologies (MDPI).
+- [20/11/2023] &#x1F4D7; Our paper "End-to-end learning for joint depth and image reconstruction from diffracted rotation" has been published in The Visual Computer (Springer Nature). 
+- [09/07/2023] &#x1F525; Attended the International Computer Vision Summer School (ICVSS 2023) in Sicily, Italy.
+- [17/10/2022] &#x1F4D8; Our paper "Material characterization using a compact Computed Tomography Imaging Spectrometer with super-resolution capability" has been accepted at OCM 2023.
+- [30/09/2022] &#x1F4D8; Our paper "Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images" has been accepted at BMVC 2022.
+- [28/05/2022] &#x1F4D7; Our paper "Deep learning-based hyperspectral image reconstruction from emulated and real computed tomography imaging spectrometer data" has been published in Optical Engineering (SPIE).
+- [01/10/2021] &#x1F4DA; Started Ph.D. studies in computer vision under the supervision of Dr. Pietro Zanuttigh.
+- [11/07/2021] &#x1F393; Defended my M.Sc. Thesis @ UNIPD (110/110 cum Laude).
+- [18/12/2019] &#x1F4D7; Our paper "Incremental and Multi-Task Learning Strategies for Coarse-To-Fine Semantic Segmentation" has been published in Technologies (MDPI).
