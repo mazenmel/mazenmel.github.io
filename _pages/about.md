@@ -13,6 +13,7 @@ News
 ======
 - <span style="color:red">[20/11/2023]</span> &#x1F4D7; Our paper "End-to-end learning for joint depth and image reconstruction from diffracted rotation" has been published in The Visual Computer (Springer Nature). 
 - <span style="color:red">[09/07/2023]</span>  &#x1F525; Attended the International Computer Vision Summer School (ICVSS 2023) in Sicily, Italy.
+- <span style="color:red">[15/03/2023]</span> &#x1F3E2; Started a Visiting Researcher period at Sony Europe B.V. (Stuttgart Technology Center).
 - <span style="color:red">[17/10/2022]</span>  &#x1F4D8; Our paper "Material characterization using a compact Computed Tomography Imaging Spectrometer with super-resolution capability" has been accepted at OCM 2023.
 - <span style="color:red">[30/09/2022]</span>  &#x1F4D8; Our paper "Joint Reconstruction and Super Resolution of Hyper-Spectral CTIS Images" has been accepted at BMVC 2022.
 - <span style="color:red">[28/05/2022]</span>  &#x1F4D7; Our paper "Deep learning-based hyperspectral image reconstruction from emulated and real computed tomography imaging spectrometer data" has been published in Optical Engineering (SPIE).
