@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="wordwrap">Download my full CV <a href="https://github.com/mazenmel/mazenmel.github.io/blob/master/files/MEL_CV.pdf">here.</a>.</div>
 
-Download my full CV here.
