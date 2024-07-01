@@ -11,6 +11,7 @@ I am currently a third-year Ph.D. student in the Department of Information Engin
 
 News
 ======
+- <span style="color:red">[17/10/2022]</span>  &#x1F4D8; Our paper "HoloADMM: High-Quality Holographic Complex Field Recovery" has been accepted at ECCV 2024.
 - <span style="color:red">[14/06/2024]</span> &#x1F525; I will join ICCP 2024 in Lausanne this July and showcase the latest spectral sensing technology from Sony. 
 - <span style="color:red">[20/11/2023]</span> &#x1F4D7; Our paper "End-to-end learning for joint depth and image reconstruction from diffracted rotation" has been published in The Visual Computer (Springer Nature). 
 - <span style="color:red">[09/07/2023]</span>  &#x1F525; Attended the International Computer Vision Summer School (ICVSS 2023) in Sicily, Italy.
