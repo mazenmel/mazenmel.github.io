@@ -11,7 +11,7 @@ I am currently a third-year Ph.D. student in the Department of Information Engin
 
 News
 ======
-- <span style="color:red">[14/08/2024]</span>  &#127822; We released HSIRS dataset: High-quality Spectral Image Resonstruction and Segmentation Dataset, used for spectral reconstruction and semantic image segmentation: https://github.com/LTTM/HSIRS.
+- <span style="color:red">[14/08/2024]</span>  &#127822; We released HSIRS dataset: High-quality Spectral Image Resonstruction and Segmentation Dataset, used for spectral reconstruction and semantic image segmentation: Download full data from [here](https://github.com/LTTM/HSIRS).
 - <span style="color:red">[14/08/2024]</span>  &#x1F4D7; Our paper "Joint Reconstruction and Spatial Super-resolution of Hyper-Spectral CTIS Images via Multi-Scale Refinement" has been considered for publication in the <strong>IEEE Transactions on Computational Imaging (TCI)</strong>.
 - <span style="color:red">[01/07/2024]</span>  &#x1F4D8; Our paper "HoloADMM: High-Quality Holographic Complex Field Recovery" has been accepted at <strong>ECCV 2024</strong>.
 - <span style="color:red">[14/06/2024]</span> &#x1F525; I will join <strong>ICCP 2024</strong> in Lausanne this July and showcase the latest spectral sensing technology from Sony. 
