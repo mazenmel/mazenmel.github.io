@@ -11,8 +11,8 @@ I am currently a third-year Ph.D. student in the Department of Information Engin
 
 News
 ======
-- <span style="color:red">[01/10/2024]</span>  &#x1F525; I will join Sony Europe B.V as a senior engineer in their Stuttgart Technology Center (STC EUTECH).
-- <span style="color:red">[22/09/2024]</span>  &#x1F525; I will attend the  IEEE SPS Summer School on Signal Processing <strong>(S3P-2024)</strong> in Capri, Italy.
+- <span style="color:red">[30/08/2024]</span>  &#x1F525; I will join Sony Europe B.V as a Senior Engineer in their Stuttgart Technology Center (STC).
+- <span style="color:red">[30/08/2024]</span>  &#x1F525; I will attend the  IEEE SPS Summer School on Signal Processing <strong>(S3P-2024)</strong> in Capri, Italy.
 - <span style="color:red">[28/08/2024]</span>  &#x1F4D8; Our paper "Cross-Net: Joint In-Line Holographic Image Reconstruction and Refocusing" has been accepted at <strong>MICAD 2024</strong>, Manchester UK.
 - <span style="color:red">[14/08/2024]</span>  &#127822; We released HSIRS dataset: High-quality Spectral Image Resonstruction and Segmentation Dataset, used for spectral reconstruction and semantic image segmentation: Download full data from [here](https://github.com/LTTM/HSIRS).
 - <span style="color:red">[14/08/2024]</span>  &#x1F4D7; Our paper "Joint Reconstruction and Spatial Super-resolution of Hyper-Spectral CTIS Images via Multi-Scale Refinement" has been considered for publication in the <strong>IEEE Transactions on Computational Imaging (TCI)</strong>.
