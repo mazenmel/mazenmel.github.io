@@ -11,7 +11,7 @@ I have a PhD in image processing and computer vision from the Department of Info
 
 News
 ======
-- <span style="color:red">[18/10/2024]</span>  &#x1F4DA; My PhD thesis can be found here.
+- <span style="color:red">[18/10/2024]</span>  &#x1F4DA; My PhD thesis can be found  <a href="https://github.com/mazenmel/mazenmel.github.io/blob/master/files/MEL_PhD_Thesis.pdf" download="MEL_CV.pdf" >here</a>.
 - <span style="color:red">[30/08/2024]</span>  &#x1F525; I will join Sony Europe B.V as a Senior Engineer in their Stuttgart Technology Center (STC).
 - <span style="color:red">[28/08/2024]</span>  &#x1F4D8; Our paper "Cross-Net: Joint In-Line Holographic Image Reconstruction and Refocusing" has been accepted at <strong>MICAD 2024</strong>, Manchester UK.
 - <span style="color:red">[14/08/2024]</span>  &#127822; We released HSIRS dataset: High-quality Spectral Image Resonstruction and Segmentation Dataset, used for spectral reconstruction and semantic image segmentation: Download full data from [here](https://github.com/LTTM/HSIRS).
