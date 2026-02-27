@@ -7,7 +7,7 @@ redirect_from:
   - /ap
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Here is a list of some selected academic projects that I did during my studies.
 
   <div class=container> 
     <h4>
