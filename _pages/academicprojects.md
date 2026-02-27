@@ -3,8 +3,11 @@ layout: archive
 title: "Academic Projects"
 permalink: /academicprojects/
 author_profile: true
+redirect_from:
+  - /academicprojects
 ---
 
+{% include base_path %}
 
 Here is a list of some selected academic projects that I did during my studies.
 
