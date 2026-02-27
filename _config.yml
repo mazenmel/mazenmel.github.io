@@ -21,7 +21,7 @@ repository               : "mazenmel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_0102.jpg"
   name             : "Mazen Mel, PhD"
   pronouns         : # example: "she/her"  
   bio              : "PhD in image processing & computer vision"
