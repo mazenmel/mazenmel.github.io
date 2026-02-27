@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Academic Projectss"
-permalink: /ap/
+title: "Academic Projects"
+permalink: /academicprojects/
 author_profile: true
-redirect_from:
-  - /ap
 ---
+
 
 Here is a list of some selected academic projects that I did during my studies.
 
