@@ -13,7 +13,7 @@ My research focuses on computational photography, camera optics, and computer vi
 
 News
 ======
-- <span style="color:red">[18/10/2024]</span>  &#x1F4DA; My PhD thesis "Learning for Computational Image Sensing" can be found  <a href="https://github.com/mazenmel/mazenmel.github.io/blob/master/files/MEL_PhD_Thesis.pdf" download="MEL_CV.pdf" >here</a>.
+- <span style="color:red">[18/10/2024]</span>  &#x1F4DA; My PhD thesis "Learning for Computational Image Sensing" can be found  <a href="https://github.com/mazenmel/mazenmel.github.io/blob/master/files/Mel_PhD_Thesis.pdf" download="MEL_phd_thesis.pdf" >here</a>.
 - <span style="color:red">[30/08/2024]</span>  &#x1F525; I will join Sony Europe B.V as a Senior Engineer.
 - <span style="color:red">[28/08/2024]</span>  &#x1F4D8; Our paper "Cross-Net: Joint In-Line Holographic Image Reconstruction and Refocusing" has been accepted at <strong>MICAD 2024</strong>, Manchester UK.
 - <span style="color:red">[14/08/2024]</span>  &#127822; We released HSIRS dataset: High-quality Spectral Image Resonstruction and Segmentation Dataset, used for spectral reconstruction and semantic image segmentation: Download full data from [here](https://github.com/LTTM/HSIRS).
